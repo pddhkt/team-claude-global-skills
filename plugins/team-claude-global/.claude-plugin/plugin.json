@@ -1,0 +1,9 @@
+{
+  "name": "team-claude-global",
+  "description": "Universal development skills including git conventions, smart commits, test generation, browser automation, skill authoring, and session reflection",
+  "version": "1.0.0",
+  "author": {
+    "name": "pddhkt"
+  },
+  "keywords": ["git", "testing", "browser", "skills", "commit", "reflect", "install"]
+}

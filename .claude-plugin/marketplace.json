@@ -1,0 +1,19 @@
+{
+  "name": "team-claude-global-skills",
+  "owner": {
+    "name": "pddhkt"
+  },
+  "metadata": {
+    "description": "Global development skills for Team Claude - git, testing, browser automation, and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "team-claude-global",
+      "source": "./plugins/team-claude-global",
+      "description": "Universal development skills including git conventions, smart commits, test generation, browser automation, and skill authoring",
+      "version": "1.0.0",
+      "keywords": ["git", "testing", "browser", "skills", "commit", "reflect"]
+    }
+  ]
+}
