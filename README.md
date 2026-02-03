@@ -90,15 +90,16 @@ Plugin installation workflow for setting up Team Claude in projects.
 
 ### reflect
 
-Session reflection and skill improvement:
+Session reflection, skill improvement, and routing:
 - Analyze current conversation for improvements
+- Apply global skill changes directly
+- Route stack-specific issues to per-repo reflect skills
 - Categorize improvement types
-- Sync strategy for pushing changes back
 
 **Reference files:**
-- `session-analysis.md` - Session metrics and analysis
+- `session-analysis.md` - Session analysis patterns
 - `improvement-categories.md` - Improvement categorization
-- `sync-strategy.md` - Sync strategies
+- `sync-strategy.md` - Self-manage and routing strategy
 
 ## Updating
 
